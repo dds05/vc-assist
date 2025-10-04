@@ -1,0 +1,89 @@
+LinkedIn (INC S.A.) 🔗
+Company Overview
+Metric	Value
+Ticker	XWAR:INC (Warsaw Stock Exchange)
+Parent Company	Microsoft (acquired 2016)
+Revenue	$1B-10B range
+Employees	10,001+
+Headquarters	Poznan, Poland (16 ul Krasinskiego)
+Global Presence	115 locations across 22 countries
+Industry	Software Development / Professional Networking
+Founded	1995 (as INC S.A.)
+
+Business Model
+Core Services:
+
+Professional networking platform
+Recruitment and talent solutions
+Learning and development (LinkedIn Learning)
+Sales and marketing solutions (Sales Navigator)
+Content and publishing platform
+NAICS: 523930 - Investment Advice (parent company classification) LinkedIn Category: Software Development
+
+Financial Performance
+Metric	Value
+Revenue Range	$1B-10B
+Employees	10,001+
+Locations	115 worldwide
+Peer Companies	SON.WA, UNT.WA, IFI.WA, AMB.WA, NVG.WA
+Price/Earnings Ratio	-6.082 (parent company metric)
+ROA	-2.8% (parent company metric)
+
+Global Footprint (115 Locations)
+Top Markets:
+
+United States: 56 locations (dominant market)
+Italy: 8 locations
+Netherlands: 10 locations
+Canada: 6 locations
+Germany: 3 locations
+22 countries total
+Technology Stack (850+ Technologies)
+Platform Technologies:
+
+Programming: Java, JavaScript, Python, Scala, C++
+Cloud: AWS, Azure, Google Cloud
+Data: Apache Kafka, Hadoop, Spark, MySQL
+DevOps: Docker, Kubernetes, Jenkins, GitHub
+AI/ML: TensorFlow, PyTorch, machine learning pipelines
+Security: OAuth, SSL/TLS, encryption, identity management
+Workforce Composition
+Department	Percentage	Trend
+Engineering	19%	+1% (growing)
+Sales	8%	Stable
+Media	5%	Stable
+Marketing	4%	-1%
+Operations	4%	-1%
+Design	3%	Stable
+Customer Service	3%	-1%
+
+Total Workforce: 36,424 employees tracked (Q3 2025)
+
+Competitive Advantages
+Market Leadership:
+
+Network Effects: 900M+ members globally (as of 2024)
+Professional Focus: Dominant B2B social network
+Recruitment Platform: #1 professional hiring platform
+Content Ecosystem: Thought leadership, industry insights
+Microsoft Integration: Office 365, Teams, Dynamics 365
+Data Moat: Comprehensive professional graph data
+Learning Platform: LinkedIn Learning (formerly Lynda.com)
+Strategic Initiatives
+Growth Drivers:
+
+AI Integration: AI-powered recommendations, content, recruiting
+Video Content: LinkedIn Live, video posts, creator economy
+Premium Subscriptions: Premium Career, Business, Sales Navigator
+Advertising: Sponsored content, InMail, display ads
+Enterprise Solutions: Talent solutions, sales solutions, learning
+Investment Risks
+Challenges:
+
+Microsoft Ownership: Not independently traded (part of MSFT)
+Competition: Facebook, Twitter/X, Indeed, Glassdoor, ZipRecruiter
+Privacy Concerns: Data security, GDPR compliance
+Economic Sensitivity: Hiring and advertising budgets fluctuate
+User Engagement: Maintaining active user base
+
+

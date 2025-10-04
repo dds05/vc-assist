@@ -1,0 +1,82 @@
+Tata Consultancy Services (TCS) 🌏
+Company Overview
+Metric	Value
+Ticker	XBOM:TCS
+Revenue	$10B-100B range
+Employees	568,556+
+Headquarters	Mumbai, India
+Global Presence	93 India locations + 33 US + 25+ countries
+Industry	IT Services & Consulting
+IPO Date	August 25, 2004
+
+Financial Performance
+Financial Metric	Value	Analysis
+Revenue	₹2.41 Trillion (~$29B USD)	Massive scale
+EBITDA	₹171.22B	Strong margins
+Price/Earnings Ratio	28.48	Premium valuation
+ROA	8.5%	Excellent asset efficiency
+Working Capital	₹668.8B	Very strong liquidity
+Asset Turnover	0.418	Efficient operations
+
+Strategic Focus
+Core Offerings:
+
+TCS BaNCS: Financial solutions platform
+TCS CHROMA: Cloud-based talent management
+TCS ERP on Cloud: Hosted ERP applications
+TCS HOBS: Connected devices management
+ignio: Autonomous enterprise software
+TCS Intelligent Urban Exchange: Smart cities solutions
+Quartz Smart Ledgers: Blockchain solutions
+Service Lines:
+
+Cloud, cognitive business, consulting
+Cybersecurity, data & analytics
+Enterprise solutions, IoT, digital engineering
+Sustainability services
+Technology Stack (700+ Technologies)
+Top Categories:
+
+Engineering: 38% of workforce (216K+ engineers)
+DevOps & Development: 100+ tools (Azure DevOps, Docker, Red Hat OpenShift)
+Business Intelligence: SAP Analytics Cloud, Tableau, Microsoft Power BI
+Cloud Platforms: Microsoft Azure, AWS, Google Cloud, Oracle Cloud
+Programming: Java, Python, Angular, C++, Spring Boot, SAP HANA
+Workforce Composition
+Department	Percentage	Trend
+Engineering	38%	-1% (still dominant)
+Operations	18%	-1%
+HR	1%	+2% (growing)
+Sales	1%	-1%
+Finance	1%	-2%
+
+Total Workforce: 568,556 employees tracked (Q3 2025)
+
+Employee Satisfaction
+Metric	Score
+Overall Rating	3.7/5.0
+CEO Approval	67% (15,591 reviews)
+Work-Life Balance	3.7/5.0
+Career Opportunities	3.5/5.0
+Compensation & Benefits	2.9/5.0
+Recommend to Friend	63%
+Total Reviews	168,078
+
+Competitive Advantages
+Differentiation:
+
+Massive Scale: 568K+ employees, largest IT services workforce
+Engineering Excellence: 38% engineering workforce (216K+ engineers)
+Global Delivery Model: 93 locations in India for cost efficiency
+Comprehensive Portfolio: End-to-end IT services and consulting
+Industry Expertise: Banking, healthcare, retail, manufacturing, telecom
+Innovation Platforms: Proprietary solutions (BaNCS, CHROMA, ignio)
+Investment Risks
+Challenges:
+
+Technology Disruption: E-commerce and AI integration risks
+Data Security: Heavy reliance on IT systems, cyberattack vulnerability
+Competition: Intense competition from Accenture, IBM, Infosys, Wipro
+Customer Adoption: Economic sensitivity impacts client spending
+Investment Thesis
+✅ Strengths: Massive scale, engineering talent, cost efficiency, comprehensive services ✅ Growth Drivers: Digital transformation, cloud migration, AI/ML adoption ⚠️ Risks: Compensation concerns, cybersecurity, economic cycles

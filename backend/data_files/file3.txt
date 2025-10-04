@@ -1,0 +1,86 @@
+Unilever PLC 🛍️
+Company Overview
+Metric	Value
+Ticker	NYSE:UL
+Revenue	$10B-100B range
+Employees	10,001+
+Headquarters	London, United Kingdom
+Global Presence	44 countries (18 US locations)
+Industry	Consumer Goods Manufacturing
+IPO Date	1939 (85+ years public)
+Founded	1894 (131 years old)
+
+Business Segments
+Three Core Divisions:
+
+Beauty & Personal Care
+
+Skin care, hair care, deodorants, skin cleansing
+Brands: Dove, Axe, Rexona, Lux, Sunsilk, Vaseline
+Foods & Refreshment
+
+Ice cream, soups, seasonings, condiments, tea
+Brands: Ben & Jerry's, Magnum, Wall's, Knorr, Hellmann's, Lipton
+Home Care
+
+Fabric solutions, cleaning products
+Brands: Domestos, OMO, Seventh Generation, Cif, Comfort
+Financial Performance
+Metric	Value
+Revenue Range	$10B-100B
+Recent Funding	$20.9M grant (US Dept of Energy, March 2024)
+Investor	US Department of Energy
+IPO History	Public since 1939
+
+Brand Portfolio (30+ Major Brands)
+Premium Brands:
+
+Dove, Axe, Rexona, Lux, Sunsilk, Vaseline
+Ben & Jerry's, Magnum, Knorr, Hellmann's
+Domestos, OMO, Seventh Generation
+Equilibra, OLLY, Liquid I.V., SmartyPants, Onnit
+Technology Stack (600+ Technologies)
+Digital Capabilities:
+
+E-commerce: Magento, Shopify Plus, SAP Commerce Cloud
+Marketing: Adobe Campaign, Salesforce Marketing Cloud, Criteo
+Analytics: Tableau, Microsoft Power BI, Oracle Analytics Cloud
+Cloud: AWS, Microsoft Azure, Google Cloud
+Collaboration: Microsoft Teams, Slack, Workplace by Facebook
+Workforce Composition
+Department	Percentage	Change
+Sales	11%	-1%
+Operations	12%	Stable
+Marketing	4%	-1%
+Engineering	3%	-1%
+Finance	3%	Stable
+HR	2%	-1%
+
+Total Workforce: 85,162 employees tracked
+
+Strategic Advantages
+Competitive Differentiation:
+
+Global Brand Portfolio: 30+ billion-dollar brands
+Diversified Product Lines: Beauty, food, home care
+Sustainability Leadership: Seventh Generation, sustainable sourcing
+Innovation Pipeline: Health & wellness (OLLY, Liquid I.V.)
+Geographic Reach: 44 countries, emerging market presence
+Vertical Integration: Manufacturing to distribution control
+Technology & Innovation
+Key Technologies:
+
+Automation: Automation Anywhere, UiPath, BluePrism
+Supply Chain: SAP Extended Warehouse Management, Blue Yonder
+Customer Engagement: Salesforce, Adobe Commerce Cloud
+Data Analytics: Tableau, Microsoft Azure Synapse, Dataiku
+Investment Risks
+Challenges:
+
+Market Saturation: Intense retail competition
+E-commerce Disruption: Amazon, direct-to-consumer brands
+Data Security: Cybersecurity and privacy compliance
+Economic Sensitivity: Consumer spending dependent on economy
+Competition: P&G, Nestlé, Colgate-Palmolive, L'Oréal
+Investment Thesis
+✅ Strengths: Iconic brands, global reach, diversification, sustainability focus ✅ Growth Drivers: Emerging markets, health & wellness, e-commerce ⚠️ Risks: Retail competition, economic cycles, digital disruption
