@@ -7,7 +7,7 @@
     "frontend:dev": "cd frontend && npm run dev",
     "frontend:build": "cd frontend && npm run build",
     "frontend:start": "cd frontend && npm run start",
-    "backend:run": "cd backend && go run main.go",
+    "backend:dev": "cd backend && go run main.go",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "format": "prettier --write .",
     "clean": "rimraf frontend/node_modules frontend/.next"
