@@ -33,3 +33,5 @@ curl --location 'http://localhost:8000/ask' \
 --data '{"question": "What is the revenue of LinkedIn?", "top_k": 1}'
 
 ```
+
+#### Notes: https://docs.google.com/document/d/1Mhy6H-YXZWRVe7OVvnG59r2KsiKKhqLkML1mWWLBavA/edit?usp=sharing
