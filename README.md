@@ -30,7 +30,7 @@ Test Vector Search in Postman :
 ```
 curl --location 'http://localhost:8000/ask' \
 --header 'Content-Type: application/json' \
---data '{"question": "What is the revenue of LinkedIn?", "top_k": 1}'
+--data '{"question": "Recommend top company to invest in", "top_k": 5}'
 
 ```
 
