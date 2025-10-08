@@ -49,5 +49,5 @@ def ask(query: Query):
     # answer = llm_module.answer_question(query.question, context_texts)
 
     return {
-        "source_files": source_files
+        "context": context_texts
     }
