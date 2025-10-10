@@ -9,6 +9,6 @@ import (
 func SetupRoutes(r *gin.Engine) {
 	api := r.Group("/api")
 	{
-		api.GET("/hello", controllers.HelloHandler)
+		api.POST("/interference", controllers.AIInterferenceHandler)
 	}
 }

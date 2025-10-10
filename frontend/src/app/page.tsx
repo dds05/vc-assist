@@ -1,12 +1,24 @@
 "use client"
 
 import Header from "@/components/Header";
+import { useState } from "react";
 
 export default function Home() {
 
-  const handleKeyDown=(e:any)=>{
-    if (e.key === 'Enter')
-    console.log(e.target.value);
+  const [info,setInfo]=useState(null);
+
+  const handleKeyDown=async(e:any)=>{
+    if (e.key === 'Enter'){
+      const question = e.target.value ||'';
+      const response = await fetch('http://localhost:8080/api/interference', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(question),
+      });
+      const data= await response.json();
+      setInfo(data?.context[0])
+    }
+
   }
 
   return (
@@ -17,6 +29,9 @@ export default function Home() {
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
         </svg>
         <input onKeyDown={handleKeyDown} type="text" className="focus:outline-none flex-grow" placeholder="Recommend the top company to invest in"/>
+        </div>
+        <div className="my-5 w-[80%] m-auto info-container">
+          {info}
         </div>
     </div>
   );
