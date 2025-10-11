@@ -6,10 +6,13 @@ import { useState } from "react";
 export default function Home() {
 
   const [info,setInfo]=useState<any>(null);
+  const [loading, setLoading] = useState(false); 
 
   const handleKeyDown=async (e:any)=>{
     if (e.key === 'Enter'){
       const question = e.target.value ||'';
+      setLoading(true);
+      try {
       const response = await fetch('http://localhost:8080/api/interference', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -17,6 +20,11 @@ export default function Home() {
       });
       const data= await response.json();
       setInfo(data?.result)
+     }catch(err){
+      console.error(err);
+     }finally {
+      setLoading(false); 
+    }
     }
 
   }
@@ -30,6 +38,12 @@ export default function Home() {
         </svg>
         <input onKeyDown={handleKeyDown} type="text" className="focus:outline-none flex-grow" placeholder="Recommend the top company to invest in" />
       </div>
+      {loading && (
+        <div className="my-5 flex justify-center items-center">
+          <div className="loader border-4 border-blue-500 border-t-transparent rounded-full w-8 h-8 animate-spin"></div>
+          <span className="ml-2 text-gray-700">Loading...</span>
+        </div>
+      )}
       {info && <div className="my-5 w-[80%] m-auto info-container">
         <div className="m-auto w-lg">
           {info?.companies?.map((company: any, index: number) => {
@@ -61,7 +75,10 @@ export default function Home() {
             </div>
           })}
         </div>
-        <div><span className="font-bold">Verdict:</span> {info?.investment_recommendation}</div>
+        <div className="bg-gray-50 p-4 rounded-lg shadow-md max-w-md mx-auto">
+          <span className="font-extrabold text-gray-800">Verdict:</span>
+          <span className="ml-2 text-green-600">{info?.investment_recommendation}</span>
+        </div>
       </div>}
     </div>
   );
