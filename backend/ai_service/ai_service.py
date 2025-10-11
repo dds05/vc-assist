@@ -4,7 +4,7 @@ import os
 
 from .embeddings import Embeddings
 from .vector_store import VectorStore
-# from llm_service import LLMService
+from .llm_service import LLMService
 
 # ----------------------
 # Initialize
@@ -26,7 +26,7 @@ for fname in os.listdir(DATA_DIR):
 # Initialize modules
 embedding_module = Embeddings()
 vector_module = VectorStore(embedding_module.encode(texts))
-# llm_module = LLMService()
+llm_module = LLMService()
 
 # ----------------------
 # Request model
@@ -46,8 +46,8 @@ def ask(query: Query):
     source_files = [documents[i]["filename"] for i in top_indices]
 
     # Call LLM
-    # answer = llm_module.answer_question(query.question, context_texts)
+    answer = llm_module.answer_question(query.question, context_texts)
 
     return {
-        "context": context_texts
+        "result": answer
     }
