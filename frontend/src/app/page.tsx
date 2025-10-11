@@ -19,7 +19,7 @@ export default function Home() {
         body: JSON.stringify(question),
       });
       const data= await response.json();
-      setInfo(data?.result)
+      setInfo(data?.result || data?.result?.[0])
      }catch(err){
       console.error(err);
      }finally {
