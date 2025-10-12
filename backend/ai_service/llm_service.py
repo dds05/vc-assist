@@ -40,6 +40,7 @@ Context:
 
 Instructions:
 - Respond ONLY in JSON. Do NOT include explanations, notes, or commentary outside the JSON.
+- Return only in single structure.
 - Values should be in string ONLY.
 - Include all reasoning about the recommended company **only inside the "investment_recommendation" field**.
 - If a value is missing, use null.

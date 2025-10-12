@@ -26,7 +26,7 @@ func AIInterferenceHandler(c *gin.Context) {
 
 	pythonPayload := map[string]interface{}{
 		"question": body,
-		"top_k":    3,
+		"top_k":    2,
 	}
 	payloadBytes, _ := json.Marshal(pythonPayload)
 

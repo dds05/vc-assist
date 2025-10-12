@@ -12,7 +12,7 @@ from .llm_service import LLMService
 app = FastAPI()
 
 DATA_DIR = os.path.join(os.getcwd(), "data_files")
-TOP_K = 3
+TOP_K = 2
 
 # Load text files
 documents = []
