@@ -7,13 +7,13 @@ export default function Home() {
 
   const [info,setInfo]=useState<any>(null);
   const [loading, setLoading] = useState(false); 
-
+  const API_BASE_URL = "http://localhost:8080";
   const handleKeyDown=async (e:any)=>{
     if (e.key === 'Enter'){
       const question = e.target.value ||'';
       setLoading(true);
       try {
-      const response = await fetch('http://localhost:8080/api/interference', {
+      const response = await fetch(`${API_BASE_URL}/api/interference`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(question),
