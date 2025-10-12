@@ -45,7 +45,7 @@ export default function Home() {
         </div>
       )}
       {info && <div className="my-5 w-[80%] m-auto info-container">
-        <div className="m-auto w-lg">
+        <div className="m-auto">
           {info?.companies?.map((company: any, index: number) => {
             return <div className="mb-4" key={index}>
               <div className="max-w-sm mx-auto p-4 bg-gray-50 rounded-lg shadow">

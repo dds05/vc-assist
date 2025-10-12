@@ -66,4 +66,7 @@ Instructions:
         ]
         response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
         clean_response = response.strip().removeprefix("```json").removesuffix("```").strip()
-        return json.loads(clean_response)
+        data =  json.loads(clean_response)
+        if not isinstance(data, list):
+            data = [data]
+        return data

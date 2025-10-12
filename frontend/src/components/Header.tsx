@@ -5,7 +5,7 @@ export default function Header() {
 
     return <>
         <div className="p-2 h-15 mb-5 border-b border-[whitesmoke] flex justify-between">
-            <div className="flex justify-center align-center self-center font-bold">VC Assist</div>
+            <div className="flex justify-center align-center self-center font-bold mx-2">VC Assist</div>
             <div className="flex items-center space-x-2 mx-5">
                 <UserIcon className="h-6 w-6 text-gray-600  cursor-pointer" />
             </div>
