@@ -8,8 +8,10 @@ export default function Home() {
   const [info,setInfo]=useState<any>(null);
   const [loading, setLoading] = useState(false); 
   const API_BASE_URL = "http://localhost:8080";
+  
   const handleKeyDown=async (e:any)=>{
     if (e.key === 'Enter'){
+      setInfo(null);
       const question = e.target.value ||'';
       setLoading(true);
       try {
