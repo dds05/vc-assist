@@ -19,7 +19,7 @@ export default function Home() {
         body: JSON.stringify(question),
       });
       const data= await response.json();
-      setInfo(data?.result || data?.result?.[0])
+      setInfo(data?.result?.[0])
      }catch(err){
       console.error(err);
      }finally {
@@ -75,7 +75,7 @@ export default function Home() {
             </div>
           })}
         </div>
-        <div className="bg-gray-50 p-4 rounded-lg shadow-md max-w-md mx-auto">
+        <div className="bg-gray-50 p-4 rounded-lg shadow-md mx-auto">
           <span className="font-extrabold text-gray-800">Verdict:</span>
           <span className="ml-2 text-green-600">{info?.investment_recommendation}</span>
         </div>
